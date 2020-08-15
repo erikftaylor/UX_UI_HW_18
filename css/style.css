@@ -80,7 +80,7 @@ body {
   padding: 16px;
   text-align: left;
   background-color: white;
-  height: 200px;
+  height: 250px;
 }
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
@@ -137,7 +137,7 @@ body {
   padding: 16px;
   text-align: left;
   background-color: white;
-  height: 200px;
+  height: 250px;
 }
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
